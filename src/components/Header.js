@@ -176,7 +176,7 @@ const Header = ({ searched }) => {
             onClick={handleCollapse}
           >
             <img
-              src="https://avatars.githubusercontent.com/u/69708483?s=400&u=7e5e2f43e9d02dec298e7bb375f265db157e20c1&v=4"
+              src="azi.png"
               width={48}
               alt="Developer Icon"
               className="rounded-circle"
