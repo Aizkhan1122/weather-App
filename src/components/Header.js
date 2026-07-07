@@ -176,7 +176,7 @@ const Header = ({ searched }) => {
             onClick={handleCollapse}
           >
             <img
-              src="azi.png"
+              src="/azi.png"
               width={48}
               alt="Developer Icon"
               className="rounded-circle"
@@ -184,7 +184,7 @@ const Header = ({ searched }) => {
             <div className="text-start ms-3">
               <span>Syed Azizkhan</span>
               <br />
-              <span className="text-muted">MERN Developer</span>
+              <span className="text-muted">fullstack Developer</span>
             </div>
             <div className="ms-auto">
               <motion.div
